@@ -7,9 +7,9 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link href="vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-    <link href="vendor/aos/aos.css" rel="stylesheet">
+    <link href="assets/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="assets/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/aos/aos.css" rel="stylesheet">
 
     <link rel="stylesheet" href="css/main.css">
 
@@ -231,10 +231,10 @@
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="vendor/jquery.easing/jquery.easing.min.js"></script>
-    <script src="vendor/waypoints/jquery.waypoints.min.js"></script>
-    <script src="vendor/owl.carousel/owl.carousel.min.js"></script>
-    <script src="vendor/aos/aos.js"></script>
+    <script src="assets/jquery.easing/jquery.easing.min.js"></script>
+    <script src="assets/waypoints/jquery.waypoints.min.js"></script>
+    <script src="assets/owl.carousel/owl.carousel.min.js"></script>
+    <script src="assets/aos/aos.js"></script>
     <script src="js/script.js"></script>
 
     <script>
