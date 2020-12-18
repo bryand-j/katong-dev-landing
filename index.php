@@ -215,6 +215,13 @@
             <p><i class="bx bx-map"></i> Kupang, East Nusa Tenggara</p>
             <p><i class="bx bx-phone"></i> +(019) 092 129</p>
             <p><i class="bx bx-mail-send"></i> mail@team.dev</p>
+            <div class="sosmed-link">
+              <a href="#"><i class="bx bxl-facebook"></i></a>
+              <a href="#"><i class="bx bxl-instagram"></i></a>
+              <a href="#"><i class="bx bxl-twitter"></i></a>
+              <a href="#"><i class="bx bxs-basketball"></i></a>
+              <a href="#"><i class="bx bxl-github"></i></a>
+            </div>
           </div>
         </div>
       </section>
