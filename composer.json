@@ -1,6 +1,6 @@
 {
-	"description": "App KHS Elektro",
-	"name": "bry/app-khs",
+	"description": "Landing Page Team.dev",
+	"name": "bry/team-dev",
 	"type": "project",
 	"require": {
 		"php": ">=5.3.7"
